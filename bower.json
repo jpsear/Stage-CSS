@@ -1,0 +1,20 @@
+{
+  "name": "StageCSS",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jpsear/Stage-CSS",
+  "authors": [
+    "James Sear <james.s@mmtdigital.co.uk>"
+  ],
+  "main": "/assets/css/style.scss",
+  "keywords": [
+    "CSS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
